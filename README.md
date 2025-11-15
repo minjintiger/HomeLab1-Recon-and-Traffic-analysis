@@ -1,5 +1,4 @@
-# HomeLab1-Recon-and-Traffic-analysis
-# Lab 1 — Recon and Traffic Analysis (Nmap, tcpdump, Wireshark)
+# HomeLab 1 — Recon and Traffic Analysis (Nmap, tcpdump, Wireshark)
 
 This lab demonstrates network reconnaissance using Nmap, packet capture with tcpdump, and packet analysis using Wireshark. The goal is to understand how scan traffic appears on the network before deploying Suricata IDS in Lab 2.
 
