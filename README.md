@@ -122,11 +122,12 @@ Shows packets where the TCP flag byte equals exactly SYN (0x02). Matches the sam
 
 ## Files Included in This Lab
 
-/lab1/  
-   README.md  
-   nmap_scan.pcap
-   HomeLab1-Recom & Traffic Analysis.pdf
----
-     
+```text
+/lab1/
+├── README.md
+├── nmap_scan.pcap
+├── LICENSE
+└── HomeLab1-Recon-and-Traffic-Analysis.pdf
+
 
 
