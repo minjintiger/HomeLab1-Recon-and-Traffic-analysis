@@ -117,7 +117,6 @@ Shows packets where the TCP flag byte equals exactly SYN (0x02). Matches the sam
 - No SYN/ACK packets appear because no services are running  
 - ICMP Echo traffic confirms host availability  
 - No application-layer data (SSH/HTTP) appears because no TCP handshake succeeded  
-- This produces a clean dataset to evaluate IDS behavior in Lab 2
 
 ---
 
